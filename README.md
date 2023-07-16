@@ -1,10 +1,4 @@
-![Repo Size][repo-size]
-![Language][github-language]
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 ![MIT License][license-shield]
 
 <br />
@@ -205,8 +199,6 @@ For additional help or questions about collaboration, contact me at: derimargray
 
 MIT License
 
-Copyright (c) 2021 Derimar Gray
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -226,8 +218,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/griffondean/book-search.svg?style=for-the-badge
-[contributors-url]: https://github.com/griffondean/book-search/graphs/contributors
-[license-shield]: https://img.shields.io/static/v1?label=license&message=MIT&color=yellowgreen.svg&style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/griffon-dean-433088111/
