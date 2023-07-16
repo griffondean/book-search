@@ -184,8 +184,6 @@ Contributions are part of this open source project. Any contributions you make a
 
 ## Questions
 
-For additional help or questions about collaboration, contact me at: derimargray@gmail.com
-
 - GitHub - [griffondean](https://github.com/Derimarg/)
 - Linkedin - [Griffon Dean](https://www.linkedin.com/in/griffon-dean-433088111/)
 - Project Repository Link: https://github.com/griffondean/book-search
