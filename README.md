@@ -20,9 +20,9 @@ As an avid reader, I want to search for new books to read so that I can keep a l
 <br />
 <a href="#example">View Demo</a>
 .
-<a href="https://github.com/Derimarg/book-search-engine/issues">Report Bug</a>
+<a href="https://github.com/griffondean/book-search/issues">Report Bug</a>
 ·
-<a href="https://github.com/Derimarg/book-search-engine/issues">Request Feature</a>
+<a href="https://github.com/griffondean/book-search/issues">Request Feature</a>
 </p>
 </p>
 <br />
@@ -226,6 +226,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+[contributors-shield]: https://img.shields.io/github/contributors/griffondean/book-search.svg?style=for-the-badge
+[contributors-url]: https://github.com/griffondean/book-search/graphs/contributors
 [license-shield]: https://img.shields.io/static/v1?label=license&message=MIT&color=yellowgreen.svg&style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/griffon-dean-433088111/
