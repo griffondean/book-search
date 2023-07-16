@@ -1,5 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
-![MIT License][license-shield]
+[![License: MIT](https://img.shields.io/github/license/griffondean/book-search?style=plastic)](https://opensource.org/licenses/MIT)
 
 <br />
 <p align="center">
