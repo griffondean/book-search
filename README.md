@@ -183,7 +183,7 @@ Contributions are part of this open source project. Any contributions you make a
 
 ## Questions
 
-- GitHub - [griffondean](https://github.com/Derimarg/)
+- GitHub - [griffondean](https://github.com/griffondean/)
 - Linkedin - [Griffon Dean](https://www.linkedin.com/in/griffon-dean-433088111/)
 - Project Repository Link: https://github.com/griffondean/book-search
 
