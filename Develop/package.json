@@ -1,7 +1,7 @@
 {
-    "name": "googlebooks-app",
+    "name": "book-search",
     "version": "1.0.0",
-    "description": "",
+    "description": "Search for new books and keep list",
     "main": "server/server.js",
     "scripts": {
       "start": "node server/server.js",
